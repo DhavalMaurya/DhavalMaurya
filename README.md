@@ -1,98 +1,93 @@
 <h1 align="center">Hi 👋, I'm Dhaval Maurya</h1>
 
 <h3 align="center">
-Full Stack Developer • Backend Developer • Building Scalable Web Applications
+Full Stack Developer • MERN Stack Developer • Spring Boot Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Developer;Node.js+%7C+React.js+Developer;Spring+Boot+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+Building scalable web applications, REST APIs, and modern backend systems.
 </p>
 
-## 👨‍💻 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;Spring+Boot+Developer;Backend+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
-I'm a **Full Stack Developer** from **Surat, Gujarat 🇮🇳**, currently pursuing my **Master of Computer Applications (MCA)** at **SCET**.
+---
 
-I enjoy building scalable backend systems, modern web applications, and continuously learning better software engineering practices.
+# 👨‍💻 About Me
 
-- 💼 Backend Developer Intern @ **Realtech Technologies Pvt. Ltd.**
-- 🌱 Currently learning **Spring Boot**, **System Design** & **Clean Architecture**
-- 🚀 Passionate about Backend Development & REST APIs
+I'm **Dhaval Maurya**, a **Full Stack Developer** specializing in both the **MERN Stack** and **Spring Boot**, with a strong interest in building scalable backend systems and modern web applications.
 
-<br>
+Based in **Surat, Gujarat, India**, I'm currently pursuing my **Master of Computer Applications (MCA)** while continuously improving my software engineering skills.
 
-## 🎯 Current Focus
+I enjoy designing and developing production-ready applications using **MongoDB, Express.js, React.js, Node.js, Java, Spring Boot, MySQL, JWT Authentication, REST APIs, Redis, and modern software engineering practices**. My interests include **backend development, authentication & authorization, system design, clean architecture, AI integration, cloud deployment, and scalable software architecture**.
 
-- ⚙️ Backend Development
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,c,cpp" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven" />
+</p>
+
+---
+
+# 🌱 Currently Learning
+
 - 🏗️ System Design
-- ☕ Spring Boot & Spring Security
-- 🧩 Clean Architecture & Design Patterns
-- 🚀 Scalable REST APIs
+- ☕ Advanced Spring Boot
+- 🧩 Clean Architecture
+- 🚀 Scalable Backend Development
+- 🤖 AI Integration & LLM Applications
 
-<br>
+---
 
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,java,c,cpp" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven" />
-</p>
-
-<br>
-
-## 💼 Experience
-
-| Role | Company | Duration |
-|------|---------|----------|
-| Backend Developer Intern | **Realtech Technologies Pvt. Ltd.** | May 2026 – Present |
-| Full Stack Developer Intern | **Jyesta Corporate Entity** | Sep 2025 – Nov 2025 |
-
-<br>
-
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://dhavalmaurya.me">
+<a href="https://dhavalmaurya.me" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/dhaval-maurya">
+<a href="https://www.linkedin.com/in/dhaval-maurya" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mauryadhaval123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-mauryadhaval123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
-<br>
+---
 
 <p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories to see my work in MERN Stack, Spring Boot, React.js, Node.js, Java, REST APIs, scalable backend development, and full-stack web applications.
 </p>
